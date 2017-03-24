@@ -5,7 +5,6 @@ highlighter:         pygments
 
 # Permalinks
 permalink:           /:title
-relative_permalinks: true
 
 # Setup
 timezone:            America/Sao_Paulo
@@ -15,7 +14,7 @@ title:               bleidi.me
 tagline:             'bleidi.me'
 description:         'On this life that we call home the years go fast and the days go so slow'
 url:                 http://bleidi.me
-rss:                 rss feed url
+rss:                 /feed.xml
 baseurl:             '/'
 baseurl_posts_img:   '/assets/images/posts/'
 baseurl_featured_img: '/assets/images/hero/'
@@ -25,7 +24,7 @@ baseurl_javascripts: '/assets/javascripts/'
 disqus:              bleidi-me
 
 author:
-  name:           	 'Rafael Souuza Oliveira'
+  name:           	 'Rafael Souza Oliveira'
   url:            	 http://bleidi.me
   facebook:          rafaelbleidi
   twitter:           rafaelbleidi

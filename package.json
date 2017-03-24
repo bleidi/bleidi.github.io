@@ -1,12 +1,12 @@
 {
-  "name": "Mickey",
+  "name": "bleidi.me",
   "version": "0.0.1",
   "description": "A minimal one-column, responsive theme for Jekyll",
-  "homepage": "http://vincentchan.github.io/mickey",
+  "homepage": "http://bleidi.me",
   "author": "Vincent Chan",
   "repository": {
     "type": "git",
-    "url": "https://github.com/vincentchan"
+    "url": "https://github.com/bleidi/bleidi.github.io"
   },
   "devDependencies": {
     "browser-sync": "~2.9.7",
